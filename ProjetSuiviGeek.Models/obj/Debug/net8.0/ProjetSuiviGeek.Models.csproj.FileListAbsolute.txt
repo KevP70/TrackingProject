@@ -1,0 +1,11 @@
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Models\bin\Debug\net8.0\ProjetSuiviGeek.Models.deps.json
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Models\bin\Debug\net8.0\ProjetSuiviGeek.Models.dll
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Models\bin\Debug\net8.0\ProjetSuiviGeek.Models.pdb
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Models\obj\Debug\net8.0\ProjetSuiviGeek.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Models\obj\Debug\net8.0\ProjetSuiviGeek.Models.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Models\obj\Debug\net8.0\ProjetSuiviGeek.Models.AssemblyInfo.cs
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Models\obj\Debug\net8.0\ProjetSuiviGeek.Models.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Models\obj\Debug\net8.0\ProjetSuiviGeek.Models.dll
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Models\obj\Debug\net8.0\refint\ProjetSuiviGeek.Models.dll
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Models\obj\Debug\net8.0\ProjetSuiviGeek.Models.pdb
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Models\obj\Debug\net8.0\ref\ProjetSuiviGeek.Models.dll

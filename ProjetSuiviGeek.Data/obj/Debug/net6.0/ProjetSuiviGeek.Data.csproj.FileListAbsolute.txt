@@ -1,0 +1,17 @@
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Data\bin\Debug\net6.0\ProjetSuiviGeek.Data.deps.json
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Data\bin\Debug\net6.0\ProjetSuiviGeek.Data.dll
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Data\bin\Debug\net6.0\ProjetSuiviGeek.Data.pdb
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Data\bin\Debug\net6.0\ProjetSuiviGeek.Models.dll
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Data\bin\Debug\net6.0\ProjetSuiviGeek.Models.pdb
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Data\obj\Debug\net6.0\ProjetSuiviGeek.Data.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Data\obj\Debug\net6.0\ProjetSuiviGeek.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Data\obj\Debug\net6.0\ProjetSuiviGeek.Data.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Data\obj\Debug\net6.0\ProjetSuiviGeek.Data.AssemblyInfo.cs
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Data\obj\Debug\net6.0\ProjetSuiviGeek.Data.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Data\obj\Debug\net6.0\ProjetSu.DEBF2DA3.Up2Date
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Data\obj\Debug\net6.0\ProjetSuiviGeek.Data.dll
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Data\obj\Debug\net6.0\refint\ProjetSuiviGeek.Data.dll
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Data\obj\Debug\net6.0\ProjetSuiviGeek.Data.pdb
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Data\obj\Debug\net6.0\ref\ProjetSuiviGeek.Data.dll
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Data\bin\Debug\net6.0\ProjetSuiviGeek.Data.runtimeconfig.json
+C:\Users\kevin\source\repos\ProjetSuiviGeek\ProjetSuiviGeek.Data\obj\Debug\net6.0\ProjetSuiviGeek.Data.genruntimeconfig.cache
