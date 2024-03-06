@@ -1,0 +1,26 @@
+# Ignorer les fichiers générés par Visual Studio
+.vs/
+bin
+obj
+
+# Ignorer les fichiers de configuration spécifiques à l'environnement
+.suo
+.user
+.sln.docstates
+
+# Ignorer les packages NuGet
+packages
+
+# Ignorer les fichiers de journalisation et de sauvegarde
+.log
+.bak
+
+# Ignorer les fichiers de configuration spécifiques à l'utilisateur
+.userprefs
+
+# Ignorer les fichiers de compilation
+.dll
+.exe
+
+# Ignorer les fichiers de configuration locaux
+.json.user
